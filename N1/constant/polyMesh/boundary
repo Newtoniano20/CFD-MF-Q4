@@ -18,8 +18,8 @@ FoamFile
 (
     back
     {
-        type            empty;
-        physicalType    empty;
+        type            patch;
+        physicalType    patch;
         nFaces          5472;
         startFace       10792;
     }
@@ -32,8 +32,8 @@ FoamFile
     }
     front
     {
-        type            empty;
-        physicalType    empty;
+        type            patch;
+        physicalType    patch;
         nFaces          4959;
         startFace       16302;
     }
@@ -60,7 +60,7 @@ FoamFile
     }
     wall
     {
-        type            wall;
+        type            patch;
         physicalType    patch;
         nFaces          152;
         startFace       21888;

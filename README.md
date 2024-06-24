@@ -13,4 +13,4 @@ For this project, we used:
 
 ## Explanation
 
-The N1 folder contains the example files we where given as a template for this project. The N2 folder, is the first attempt at the task. Why N + Number? Because It is Test Number 1, so the N is "Number".
+The N1 folder contains the example files we where given as a template for this project. The N2 folder, is the first attempt at the task. Why N + Number? Because It is Test Number 1, so the N is "Number". The N3 is the third attempt and from it we built what's inside the Final directory, where we have both subsonic and supersonic results with mesh + geo files used.
